@@ -335,6 +335,7 @@ section{
 	align-items: center;
 }
 .search img{
+	width: 20px;
 	transition: all .5s;
 }
 .search img:hover{
